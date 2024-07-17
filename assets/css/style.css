@@ -606,11 +606,20 @@ section {
 
 .about h2 {
   font-size: 20px;
-  font-weight: 500;
+  font-weight: 550;
   color: #012970;
   text-align: justify;
   text-indent: 45px;
   line-height: 30px;
+}
+
+.about .content p {
+  font-size: 17px;
+  font-style: normal;
+  text-align: justify;
+  text-indent: 45px;
+  line-height: 30px;
+  color: #012970;
 }
 
 .about p {
@@ -619,6 +628,7 @@ section {
   text-align: justify;
   text-align: center;
   font-style: italic;
+  font-size: 13px;
 }
 
 .about .btn-read-more {
